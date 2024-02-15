@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noahjd
+- 👋 Hi
 - 👀 I’m interested in everything devops
 - 🌱 I’m currently learning anything
 - 💞️ I’m looking to collaborate on anything
